@@ -48,7 +48,7 @@
         {"t":"এখানে ভিডিওর নাম লিখুন", "d":"25:00", "s":"বিষয়ের নাম", "link":""}
       ],
       "notes": [
-        {"t":"এখানে নোটের নাম লিখুন", "p":"১০ পৃষ্ঠা", "s":"বিষয়ের নাম", "link":""}
+        {"t":"Theme_Detection_Eng_Comprehension", "p":"5 পৃষ্ঠা", "s":"English", "link":"https://drive.google.com/file/d/1QF9Oo_Z5zdAA7RUlynOZHrTBCsrCfWZl/view?usp=drive_link"}
       ],
       "tests": [
         {"t":"এখানে টেস্টের নাম লিখুন", "q":5, "min":5, "tag":"বিষয়"}
