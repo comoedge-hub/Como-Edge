@@ -1,0 +1,30 @@
+{
+  "exams": [
+    {"id":"wbp", "name":"WBP / Police"},
+    {"id":"ssc", "name":"SSC CGL/CHSL"},
+    {"id":"psc", "name":"WBPSC (PSC)"},
+    {"id":"panchayat", "name":"পঞ্চায়েত নিয়োগ"},
+    {"id":"wbcs", "name":"WBCS"},
+    {"id":"tet", "name":"প্রাইমারি TET"},
+    {"id":"rail", "name":"Railway NTPC"},
+    {"id":"bank", "name":"Bank PO/Clerk"}
+  ],
+  "content": {
+    "wbp": {
+      "videos": [
+        {"t":"শারীরিক সক্ষমতা পরীক্ষা — নিয়মাবলী", "d":"18:20", "s":"তথ্য", "link":"https://www.youtube.com/watch?v=XXXXXXXX"},
+        {"t":"সাধারণ জ্ঞান — পুলিশ পরীক্ষার গুরুত্বপূর্ণ প্রশ্ন", "d":"25:40", "s":"জিকে", "link":""}
+      ],
+      "notes": [
+        {"t":"WBP সিলেবাস ও প্যাটার্ন", "p":"৮ পৃষ্ঠা", "s":"তথ্য", "link":"https://drive.google.com/file/d/XXXXXXXX/view"}
+      ],
+      "tests": [
+        {"t":"WBP কনস্টেবল মক — ১", "q":5, "min":5, "tag":"মিশ্র"}
+      ]
+    }
+  },
+  "questions": [
+    {"q":"ভারতীয় সংবিধান কার্যকর হয় কোন তারিখে?", "opts":["১৫ আগস্ট ১৯৪৭","২৬ জানুয়ারি ১৯৫০","২৬ নভেম্বর ১৯৪৯","২ অক্টোবর ১৯৫০"], "ans":1},
+    {"q":"পশ্চিমবঙ্গের দীর্ঘতম নদী কোনটি?", "opts":["দামোদর","তিস্তা","গঙ্গা","অজয়"], "ans":2}
+  ]
+}
